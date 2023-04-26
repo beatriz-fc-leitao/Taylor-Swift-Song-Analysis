@@ -1,5 +1,8 @@
 # 🎤 Taylor Swift Song Analysis
 
+## 📈 Brief
+Suppose I have been hired as a consultant by music indusrty professionals working with Taylor Swift. The main objective of this project is to provide insights into the factors that influence the popularity of Taylor Swift's songs and to gain a deeper insight into song lyrics. By exploring these factors, we can gain a better understanding of what makes a Taylor Swift song popular and potentially use this knowledge to make informed decisions about which songs to promote, how to market them, and which elements to emphasize.
+
 ## 🥅 Project Goals
 **1. Relationship between audio features and popularity:**  Explore the relationship between audio features (such as danceability, acousticness, energy, and valence) and popularity. For example, do songs that are more danceable tend to be more popular? Are there any audio features that have a strong correlation with popularity?
 
