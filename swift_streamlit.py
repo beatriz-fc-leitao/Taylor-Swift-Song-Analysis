@@ -11,8 +11,8 @@ st.markdown("<h2 style='text-align: center;'>An Analysis of Taylor Swift Music</
 
 #Define a dictionary with the page names and their respective functions
 pages = {
-    "📝 Introduction": introduction,
-    "Overview": album_overview
+    "👋🏼 Introduction": introduction,
+    "💿 Music Overview": album_overview
 }
 
 st.sidebar.title("Table of Contents")
