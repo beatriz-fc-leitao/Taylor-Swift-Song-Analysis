@@ -19,7 +19,7 @@ def album_overview(display=True):
     
     #displaying album cover on the left
     with left_column:
-        album_cover = df.loc[df['album'] == selected_album, 'image'].head(1).to_string(index=False)
+        album_cover = df.loc[df['album'] == selected_album, 'image'].values[0]
         st.image(album_cover, use_column_width=True)
     
     # displaying album metrics on the right
