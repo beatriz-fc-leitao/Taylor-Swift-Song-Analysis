@@ -1,6 +1,9 @@
 # 🎤 Taylor Swift Song Analysis
 
-## 📈 Brief
+## 🖥️ Project Web App
+[Click here to see the project](https://beatriz-fc-leitao-taylor-swift-song-anal-swift-streamlit-gxoy5b.streamlit.app)
+
+## 📈 Project Brief
 Suppose I have been hired as a consultant by music indusrty professionals working with Taylor Swift. The main objective of this project is to provide insights into the factors that influence the popularity of Taylor Swift's songs and to gain a deeper insight into song lyrics. By exploring these factors, we can gain a better understanding of what makes a Taylor Swift song popular and potentially use this knowledge to make informed decisions about which songs to promote, how to market them, and which elements to emphasize.
 
 ## 🥅 Project Goals
